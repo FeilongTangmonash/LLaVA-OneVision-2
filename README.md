@@ -15,9 +15,9 @@
 <p align="center">
     🤗 <b>2 <a href="#models">Models</a></b> · <b><a href="#datasets">Datasets</a></b> · <b><a
   href="#citation">Technical Report</a></b> · <b><a
-  href="https://evolvinglmms-lab.github.io/LLaVA-OneVision-2/">HomePage</a></b> · <b><a href="https://hu
-  ggingface.co/spaces/FeilongTang/OneVision-Encoder-Codec-View">🎬&nbsp;Codec&nbsp;Demo</a></b> · <b><a
-  href="https://discord.gg/PmdGHMFNP">Discord</a></b>
+  href="https://evolvinglmms-lab.github.io/LLaVA-OneVision-2/">HomePage</a></b> · <b><a
+  href="https://huggingface.co/spaces/FeilongTang/OneVision-Encoder-Codec-View">Codec&nbsp;Demo</a></b>
+  · <b><a href="https://discord.gg/PmdGHMFNP">Discord</a></b>
   </p>
 
 <p align="center">
